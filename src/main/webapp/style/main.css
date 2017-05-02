@@ -1,0 +1,105 @@
+@charset "utf-8";
+#abc {
+	background-color: #FFFF00;
+}
+#box {
+
+}
+#box {
+	margin-right: auto;
+	margin-left: auto;
+	width: 960px;
+	line-height: 50px;
+}
+#box #logo {
+
+}
+#box #logo {
+
+}
+#box #nav {
+	float: left;
+	clear: none;
+	height: 60px;
+	width: 710px;
+	background-image: url(../images/nav-bg.png);
+	background-position: center center;
+	background-repeat: no-repeat;
+	color: #FFFFFF;
+}
+#box #logo {
+	width: 250px;
+	height: 60px;
+	float: left;
+	background-image: url(../images/%E5%9B%BE%E6%A0%87.jpg);
+}
+#box #banner {
+	float: left;
+	height: 520px;
+	width: 960px;
+	background-image: url(../images/beijing1.png);
+}
+#box #content {
+	float: left;
+	height: 500px;
+	width: 960px;
+}
+#box #content ul {
+	padding-top: 0px;
+	padding-bottom: 0px;
+	float: left;
+	width: 50px;
+	font-size: 18px;
+}
+
+#box #copyright {
+	height: 140px;
+	float: left;
+	width: 960px;
+	font-size: 18px;
+	font-style: normal;
+	font-weight: normal;
+	background-color: #009900;
+}
+body {
+	background-color: #FFFFFF;
+	background-repeat: no-repeat;
+	background-image: none;
+	background-position: center;
+}
+#box #nav li {
+	float: left;
+	display: block;
+	list-style-type: none;
+	width: 100px;
+	text-align: center;
+	margin: 0px;
+}
+#box #banner p {
+	font-size: 18px;
+	font-weight: bold;
+	height: auto;
+	width: auto;
+}
+
+#box #nav ul {
+	display: block;
+	margin-top: 0px;
+	margin-left: auto;
+	background-position: center;
+	padding: 0px;
+	width: 500px;
+	margin-right: auto;
+	height: 50px;
+}
+#box #about li {
+	display: block;
+	width: 0px;
+	height: 70px;
+	margin-right: 0px;
+	margin-left: 0px;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+}

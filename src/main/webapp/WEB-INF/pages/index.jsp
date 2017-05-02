@@ -1,0 +1,91 @@
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<!DOCTYPE html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>无标题文档</title>
+    <link href="../style/main.css" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+        <!--
+        .STYLE1 {
+            color: #333333;
+            font-weight: bold;
+        }
+        -->
+    </style>
+</head>
+
+<body>
+<div id="box">
+    <div id="logo"></div>
+    <div id="nav">
+        <ul class="STYLE1">
+            <li><a href="../images/index.html">网站首页</a>　</li>
+            <li><a href="#">直播</a> </li>
+            <li><a href="#">分类</a> </li>
+            <li><a href="#">游戏</a> </li>
+            <li><a href="/liuyanban">留言板</a></li>
+        </ul>
+    </div>
+    <div id="banner">
+        <p>热门分类</p>
+        <table width="958" height="431" border="1">
+            <tr>
+                <td><div align="center"><img src="../../images/b1.jpg" width="136" height="180" /></div></td>
+                <td><div align="center"><img src="../../images/b2.png" width="134" height="180" /></div></td>
+                <td><div align="center"><img src="../../images/b3.png" width="131" height="180" /></div></td>
+                <td><div align="center"><img src="../../images/b4.png" width="135" height="179" /></div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><strong><a href="/wangzhe">英雄联盟</a></strong></div></td>
+                <td><div align="center"><strong><a href="/lushi">炉石传说</a></strong></div></td>
+                <td><div align="center"><strong><a href="/wangzhe">王者荣耀</a></strong></div></td>
+                <td><div align="center"><strong><a href="/shouwang">守望先锋</a></strong></div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><strong><a href="/zhuji">主机游戏</a></strong></div></td>
+                <td><div align="center"><strong><a href="/sanguosha">三国杀</a></strong></div></td>
+                <td><div align="center"><strong><a href="/jump">跳伞求生</a></strong></div></td>
+                <td><div align="center"><strong><a href="/wow">魔兽世界</a></strong></div></td>
+            </tr>
+            <tr>
+                <td><div align="center"><strong><a href="/wolfkill">天天狼人杀</a></strong></div></td>
+                <td><div align="center"><strong><a href="/fifa">FIFA Online 3</a></strong></div></td>
+                <td><div align="center"><strong><a href="/cf">穿越火线</a></strong></div></td>
+                <td><div align="center"><strong><a href="/dota2">DOTA2</a></strong></div></td>
+            </tr>
+        </table>
+        <p>&nbsp;</p>
+    </div>
+    <div id="content">
+        <p><strong>正在直播</strong></p>
+        <table width="959" height="411" border="1">
+            <tr>
+                <td><a href="../../images/index.html"><img src="../../images/c1.jpg" width="275" height="217" /></a></td>
+                <td><a href="../../images/index.html"><img src="../../images/c2.jpg" width="274" height="219" /></a></td>
+                <td><a href="../../images/index.html"><img src="../../images/c3.jpg" width="277" height="228" /></a></td>
+            </tr>
+            <tr>
+                <td><a href="../images/index.html">
+                    <img src="../../images/c6.png" width="276" height="224" />
+                </a></td>
+                <td><a href="../images/index.html"><img src="../../images/c7.png" width="274" height="215" /></a></td>
+                <td><a href="../images/index.html"><img src="../../images/c8.png" width="278" height="218" /></a></td>
+            </tr>
+        </table>
+        <p>&nbsp;</p>
+    </div>
+    <div id="copyright">
+        <p align="center">——版权所有：P60111418信息 王锋——</p>
+        <p align="center">——学校：浙江经济职业技术学院 计算机信息管理——</p>
+        <p align="center">&nbsp;</p>
+        <p align="center">&nbsp;</p>
+    </div>
+</div>
+<p>&nbsp;</p>
+<form id="form1" name="form1" method="post" action="">
+    <div align="right"></div>
+</form>
+</body>
+</html>
